@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Nov 14 18:40:18 2021
+
+@author: Demo
+"""
+
 #!/usr/bin/env python3
 # -*- coding: cp1252 -*-
 """       turtle-example-suite:
